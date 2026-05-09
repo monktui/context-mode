@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "context-mode": {
+      "command": "node",
+      "args": ["/home/falk/git/context-mode/start.mjs"],
+      "env": {
+        "CONTEXT_MODE_PROJECT_DIR": "/home/falk/git/context-mode"
+      }
+    }
+  }
+}
